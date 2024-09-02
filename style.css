@@ -1,0 +1,47 @@
+.navbar {
+  height: 150px;
+  background-color: #333;
+}
+
+.navbar-brand {
+  font-size: 40px;
+}
+
+a:hover {
+  background-color: rgb(226, 114, 33);
+  border-radius: 5px;
+}
+
+.headers {
+  font-size: 35px;
+}
+
+.card-img-top {
+  width: 50%; /* Fotoğrafın genişliğini küçültmek için */
+  display: block; /* Fotoğrafı blok öğe yapar */
+  margin: 0 auto; /* Fotoğrafı ortalar */
+}
+
+.col-sm-3 {
+  height: 450px;
+  width: 550px;
+}
+
+.card-text {
+  font-size: 25px;
+}
+.custom-card {
+  width: 1200px; /* Kartın genişliğini ayarlar */
+  height: 800px; /* İhtiyaca göre yüksekliği ayarlar */
+  padding: 10px; /* İçerik ile kenarlar arasına boşluk ekler */
+}
+
+.card-img-top-1 {
+  width: 300px; /* Fotoğrafın genişliğini küçültmek için */
+  display: block; /* Fotoğrafı blok öğe yapar */
+  margin: 0 auto; /* Fotoğrafı ortalar */
+}
+
+.c1 {
+  text-align: center;
+}
